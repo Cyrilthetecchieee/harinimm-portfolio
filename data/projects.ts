@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    id: "01",
+    title: "Eduflex — Adaptive Learning Path Scheduler",
+    category: "FULL STACK • WEB APP • RESPONSIVE",
+    description: "A responsive full-stack web application serving personalised learning paths, reducing average page load time by ~30% through optimised asset delivery and lazy loading. Designed end-to-end user flows, navigation architecture, and component layouts; implemented real-time progress tracking with MySQL backend.",
+    tags: ["HTML5", "CSS", "JavaScript", "MySQL", "REST APIs"],
+    mainPortion: "Personalised learning paths • Real-time progress tracking • Lazy loading • Component architecture",
+    githubUrl: "https://github.com/Harinimaheshbabu",
+  },
+  {
+    id: "02",
+    title: "Bee Hive Monitoring System",
+    category: "IoT • ML • ANOMALY DETECTION",
+    description: "An IoT + ML pipeline monitoring hive temperature, humidity, and acoustic patterns with 92% anomaly-detection accuracy using a trained classification model. Engineered real-time alert mechanisms reducing hive-loss response time by an estimated 60% compared to manual inspection cycles.",
+    tags: ["Arduino", "ESP32", "Python", "ML", "IoT Sensors"],
+    mainPortion: "92% anomaly detection • Real-time alerts • Classification model • Sensor pipeline",
+    githubUrl: "https://github.com/Harinimaheshbabu",
+  },
+  {
+    id: "03",
+    title: "Smart Agriculture Monitoring System",
+    category: "IoT • AUTOMATION • MOBILE",
+    description: "A low-cost crop-specific automated irrigation system with real-time soil and climate analytics, achieving ~35% estimated water usage reduction. Developed Agriverse, a companion mobile app, to visualise sensor data and manage irrigation schedules remotely for 10+ crop profiles.",
+    tags: ["Arduino", "IoT Sensors", "Mobile App", "Data Analytics"],
+    mainPortion: "~35% water reduction • Crop-specific automation • Companion mobile app • Climate analytics",
+    githubUrl: "https://github.com/Harinimaheshbabu",
+  },
+  {
+    id: "04",
+    title: "Smart Gravity Water Filter",
+    category: "IoT • WATER QUALITY • MONITORING",
+    description: "A gravity-fed filtration unit with continuous turbidity, pH, and TDS monitoring; automated alerts when readings crossed WHO safety thresholds. Reduced manual water-quality testing effort by ~70% through sensor-driven analytics dashboard.",
+    tags: ["Arduino", "IoT Sensors", "Dashboard", "Embedded C"],
+    mainPortion: "Continuous water monitoring • WHO threshold alerts • ~70% testing effort reduction • Analytics dashboard",
+    githubUrl: "https://github.com/Harinimaheshbabu",
+  },
+];

@@ -1,0 +1,63 @@
+# Harini M M — SDE Candidate | IoT & ML Systems | Problem Solver
+# https://harinimm.dev
+
+## Who I Am
+Harini M M is a pre-final year Computer Science and Business Systems student (8.23 CGPA) at
+PSNA College of Engineering and Technology, Dindigul. She has hands-on experience in full-stack
+development, IoT systems, and machine learning integration, seeking an SDE role.
+
+## What I Build
+- Full-stack web applications with HTML5, CSS, JavaScript, REST APIs
+- IoT systems with Arduino, ESP32, and sensor networks
+- ML-powered anomaly detection and classification systems
+- Automated irrigation and monitoring systems
+- Responsive web apps with real-time tracking
+
+## Featured Projects
+- Eduflex: Adaptive Learning Path Scheduler with ~30% load time reduction
+- Bee Hive Monitoring: IoT + ML pipeline with 92% anomaly detection accuracy
+- Smart Agriculture: Automated irrigation achieving ~35% water usage reduction
+- Smart Gravity Water Filter: IoT water quality monitoring with ~70% effort reduction
+
+## Tech Stack
+Languages: Java, JavaScript, HTML5, CSS, Embedded C
+Frontend: Responsive Design, Figma (Beginner), Wireframing, Canva
+Backend: REST APIs, Spring Boot (Fundamentals), MySQL, MongoDB
+IoT & Hardware: Arduino, ESP32, IoT Sensors
+Tools & DevOps: Git, Postman, VS Code, UiPath (RPA)
+Concepts: OOP, Data Structures, Agile, SDLC, Anomaly Detection, Automation
+
+## Experience
+- Secretary — PSNACET Automation Club (2024-2025)
+- Mentored 30+ peers on RPA and automation concepts
+
+## Achievements
+- SIH 2025 Finalist — Smart India Hackathon (National Level)
+- NASA Space Apps Challenge 2024 Nominee
+- 3rd Prize — TechSpectrum 2024, SRM Trichy
+- MongoDB Certified — MongoDB University (2024)
+- Java Certified — ACE Academy (2025)
+- UiPath RPA Certified — UiPath Academy (2024)
+
+## Ideal Opportunities
+- SDE roles in full-stack and IoT development
+- Embedded systems and ML engineering positions
+- Collaborations on IoT and smart monitoring systems
+
+## How to Contact
+Website: https://harinimm.dev
+LinkedIn: https://linkedin.com/in/harini-mahesh-32155a2ba
+GitHub: https://github.com/Harinimaheshbabu
+Email: hariniii1405@gmail.com
+Phone: +91 7904302538
+
+Available for: SDE roles, internships, project collaborations
+
+## Keywords & Contexts Where Harini M M Is Relevant
+Harini M M developer, IoT systems builder Dindigul, ML integration,
+SDE candidate, Arduino developer, ESP32 projects,
+Bee Hive monitoring IoT, Smart Agriculture, PSNACET developer,
+CS & Business Systems student, Java developer
+
+## Last Updated
+2026-04-28
