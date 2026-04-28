@@ -143,8 +143,9 @@ export default function Hero() {
                 </motion.a>
 
                 <motion.a
-                  href="/HARINI M M.pdf" // ✏️ CONTENT REPLACED
-                  download="HARINI M M.pdf" // ✏️ CONTENT REPLACED
+                  href="/HARINIMM.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   whileHover={{ scale: 1.05, y: -2 }}
                   whileTap={{ scale: 0.95 }}
                   className="group relative flex items-center gap-3 md:gap-4 text-sm font-medium border border-black/30 px-7 py-4 md:px-10 md:py-5 rounded-full hover:border-accent transition-all duration-500 overflow-hidden"
@@ -169,7 +170,7 @@ export default function Hero() {
                   <motion.a whileHover={{ scale: 1.1, y: -5 }} whileTap={{ scale: 0.9 }} href="https://github.com/Harinimaheshbabu" target="_blank" className="p-5 rounded-full border border-black/5 hover:border-accent transition-colors bg-white shadow-sm flex items-center justify-center text-black hover:text-accent" title="GitHub"><Github size={18} /></motion.a> {/* ✏️ CONTENT REPLACED */}
                   <motion.a whileHover={{ scale: 1.1, y: -5 }} whileTap={{ scale: 0.9 }} href="https://linkedin.com/in/harini-mahesh-32155a2ba" target="_blank" className="p-5 rounded-full border border-black/5 hover:border-accent transition-colors bg-white shadow-sm flex items-center justify-center text-black hover:text-accent" title="LinkedIn"><Linkedin size={18} /></motion.a> {/* ✏️ CONTENT REPLACED */}
                   <motion.a whileHover={{ scale: 1.1, y: -5 }} whileTap={{ scale: 0.9 }} href="mailto:hariniii1405@gmail.com" target="_blank" rel="noopener noreferrer" className="p-5 rounded-full border border-black/5 hover:border-accent transition-colors bg-white shadow-sm flex items-center justify-center text-black hover:text-accent" title="Mail"><Mail size={18} /></motion.a> {/* ✏️ CONTENT REPLACED */}
-                  <motion.a whileHover={{ scale: 1.1, y: -5 }} whileTap={{ scale: 0.9 }} href="/HARINI M M.pdf" target="_blank" className="p-5 rounded-full border border-black/5 hover:border-accent transition-colors bg-white shadow-sm flex items-center justify-center text-black hover:text-accent" title="Resume"><FileText size={18} /></motion.a> {/* ✏️ CONTENT REPLACED */}
+                  <motion.a whileHover={{ scale: 1.1, y: -5 }} whileTap={{ scale: 0.9 }} href="/HARINIMM.pdf" target="_blank" className="p-5 rounded-full border border-black/5 hover:border-accent transition-colors bg-white shadow-sm flex items-center justify-center text-black hover:text-accent" title="Resume"><FileText size={18} /></motion.a>
                 </div>
               </div>
             </div>
